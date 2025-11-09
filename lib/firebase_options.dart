@@ -41,46 +41,47 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCWtFMuIAisuPYqFclbpDXB0fj6IzlA6RQ',
-    appId: '1:672156119487:web:4745d143b2f3de48e6f10a',
-    messagingSenderId: '672156119487',
-    projectId: 'simple-bank-manager-2',
-    authDomain: 'simple-bank-manager-2.firebaseapp.com',
-    storageBucket: 'simple-bank-manager-2.firebasestorage.app',
+    apiKey: 'AIzaSyAMVhxBt2EFqJbfUSqwwXYlEiDFSVJaIwI',
+    appId: '1:879015889552:web:fbd26b4056e4722ee26615',
+    messagingSenderId: '879015889552',
+    projectId: 'simple-bank-manager-2025',
+    authDomain: 'simple-bank-manager-2025.firebaseapp.com',
+    storageBucket: 'simple-bank-manager-2025.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCrpzM92SkRWLpYjjzpR1pkSgKxJsiw3hk',
-    appId: '1:672156119487:android:0b49b367250b6bd4e6f10a',
-    messagingSenderId: '672156119487',
-    projectId: 'simple-bank-manager-2',
-    storageBucket: 'simple-bank-manager-2.firebasestorage.app',
+    apiKey: 'AIzaSyCbXTMIZhvmkZPOc21tOp43Xetg5aoQPIs',
+    appId: '1:879015889552:android:de0e9f29853f471de26615',
+    messagingSenderId: '879015889552',
+    projectId: 'simple-bank-manager-2025',
+    storageBucket: 'simple-bank-manager-2025.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCNXKximbu4saKvOzz2LKqWivUZgqLp6CQ',
-    appId: '1:672156119487:ios:296f52c11a31ebf1e6f10a',
-    messagingSenderId: '672156119487',
-    projectId: 'simple-bank-manager-2',
-    storageBucket: 'simple-bank-manager-2.firebasestorage.app',
+    apiKey: 'AIzaSyDtp4QC7-nOnzR6aDeE6iAUih9GPnezbIM',
+    appId: '1:879015889552:ios:fb2e02eff410efafe26615',
+    messagingSenderId: '879015889552',
+    projectId: 'simple-bank-manager-2025',
+    storageBucket: 'simple-bank-manager-2025.firebasestorage.app',
     iosBundleId: 'com.example.bankApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCNXKximbu4saKvOzz2LKqWivUZgqLp6CQ',
-    appId: '1:672156119487:ios:296f52c11a31ebf1e6f10a',
-    messagingSenderId: '672156119487',
-    projectId: 'simple-bank-manager-2',
-    storageBucket: 'simple-bank-manager-2.firebasestorage.app',
+    apiKey: 'AIzaSyDtp4QC7-nOnzR6aDeE6iAUih9GPnezbIM',
+    appId: '1:879015889552:ios:fb2e02eff410efafe26615',
+    messagingSenderId: '879015889552',
+    projectId: 'simple-bank-manager-2025',
+    storageBucket: 'simple-bank-manager-2025.firebasestorage.app',
     iosBundleId: 'com.example.bankApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCWtFMuIAisuPYqFclbpDXB0fj6IzlA6RQ',
-    appId: '1:672156119487:web:b2a7f274e27b97e3e6f10a',
-    messagingSenderId: '672156119487',
-    projectId: 'simple-bank-manager-2',
-    authDomain: 'simple-bank-manager-2.firebaseapp.com',
-    storageBucket: 'simple-bank-manager-2.firebasestorage.app',
+    apiKey: 'AIzaSyAMVhxBt2EFqJbfUSqwwXYlEiDFSVJaIwI',
+    appId: '1:879015889552:web:86ae336bed0a03e6e26615',
+    messagingSenderId: '879015889552',
+    projectId: 'simple-bank-manager-2025',
+    authDomain: 'simple-bank-manager-2025.firebaseapp.com',
+    storageBucket: 'simple-bank-manager-2025.firebasestorage.app',
   );
+
 }
